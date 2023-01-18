@@ -2,6 +2,7 @@ print("hello")
 
 print()
 
+имя
 
 x = 1 + 2
 print(x)
